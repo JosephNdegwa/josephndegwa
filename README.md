@@ -2,7 +2,7 @@
 My name is Ndegwa and I am a thorough and reliable Professional seeking to grow in my area of profession as I explore positions that will see me achieve my career potential. Here's some info about me:
 
 <!-- Info about me -->
--🌱 Self learning Software Engineering.
+-🌱 Software Engineering.
 
 <!-- 🔭 Current projects:
 <ul>
@@ -13,7 +13,6 @@ My name is Ndegwa and I am a thorough and reliable Professional seeking to grow 
 🔭- Interests:
 <ul>
   <li>Web dev</li>
-  <li>Photo Contribution (<a href="https://unsplash.com/@josephndegwa">Unsplash</a>)</li>
   <li>Building Stuff with tech</li>
  </ul>
  
