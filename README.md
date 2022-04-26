@@ -45,7 +45,5 @@ My name is Joseph Ndegwa and I am a full-stack developer seeking to grow in my a
    [![Linkedin Badge](https://img.shields.io/badge/-josephndegwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephndegwa/)](https://www.linkedin.com/in/josephndegwa/)
    [![twitter](https://img.shields.io/twitter/follow/bull_ndegwa?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/bull_ndegwa)   [![github](https://img.shields.io/github/followers/josephndegwa?logo=github&style=plastic)](https://github.com/josephndegwa?tab=followers)
 
-📫 Visit my Portfolio Website: https://josephndegwa.github.io
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josephndegwa)  [![wakatime](https://wakatime.com/badge/user/81a46e0d-663a-4c9d-863c-19161ab3d907.svg)](https://wakatime.com/@81a46e0d-663a-4c9d-863c-19161ab3d907)    ![Profile views](https://gpvc.arturio.dev/josephndegwa)  
 
