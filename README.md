@@ -20,7 +20,7 @@ My name is Ndegwa and I am a thorough and reliable Professional seeking to grow 
 ||Skills|
 |-|-|
 | Programming Languages|<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-| Framework|<img src="https://img.shields.io/badge/Node.js%20-%339933.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img src="https://camo.githubusercontent.com/407d705d766518dd612b9ddbda854cf6482bbc9f45cad93652349d098a4d2ad7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d6666663f266c6f676f3d416e67756c61726a73266c6f676f436f6c6f723d726564"/>|
+| Framework|<img src="https://img.shields.io/badge/Node.js%20-%339933.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>|
 | Database|<img src ="https://img.shields.io/badge/django-%2307405e.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 | DevOps|<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>|
 | IDE|<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>|
