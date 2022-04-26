@@ -28,10 +28,10 @@ My name is Ndegwa and I am a thorough and reliable Professional seeking to grow 
  
  <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=josephndegwa&hide_border=true&theme=redical)
+![Ndegwa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=josephndegwa&hide_border=true&theme=redical)
 
  # 📈 Github Stats
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephndegwa&theme=radical&show_icons=true)
+![Ndegwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephndegwa&theme=radical&show_icons=true)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephndegwa"></img>
 
