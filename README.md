@@ -1,21 +1,3 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... React.js
-- 🌱 I’m currently learning ... React.js
-- 👯 I’m looking to collaborate on ... Angular/Django
-- 🤔 I’m looking for help with ... React.js
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [twitter](https://twitter.com/bull_ndegwa)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love motorcycles
--->
-
-
-
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Ndegwa and I am a thorough and reliable Professional seeking to grow in my area of profession as I explore positions that will see me achieve my career potential. Here's some info about me:
 
@@ -63,7 +45,7 @@ My name is Ndegwa and I am a thorough and reliable Professional seeking to grow 
 
 💬 [![Gmail Badge](https://img.shields.io/badge/-josephndegwa@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josephndegwa@gmail.com)](mailto:kariukindegwa98@gmail.com)
    [![Linkedin Badge](https://img.shields.io/badge/-josephndegwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephndegwa/)](https://www.linkedin.com/in/josephndegwa/)
-   [![twitter](https://img.shields.io/twitter/follow/olivernjeru?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/olivernjeru)   [![github](https://img.shields.io/github/followers/josephndegwa?logo=github&style=plastic)](https://github.com/josephndegwa?tab=followers)
+   [![twitter](https://img.shields.io/twitter/follow/bull_ndegwa?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/bull_ndegwa)   [![github](https://img.shields.io/github/followers/josephndegwa?logo=github&style=plastic)](https://github.com/josephndegwa?tab=followers)
 
 📫 Visit my Portfolio Website: https://josephndegwa.github.io
 
