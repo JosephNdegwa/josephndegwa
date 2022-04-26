@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Angular/Django
 - 🤔 I’m looking for help with ... React.js
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [email](www.kariukindegwa98@gmail.com)
+- 📫 How to reach me: ... [twitter](https://twitter.com/bull_ndegwa)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love motorcycles
 -->
