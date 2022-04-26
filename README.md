@@ -40,13 +40,13 @@ My name is Ndegwa and I am a thorough and reliable Professional seeking to grow 
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=josephndegwa&theme=radical&v=2" />
 <!-- </a><br/><br/> -->
 
-![Oliver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josephndegwa&theme=radical&layout=compact)
+![Ndegwa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josephndegwa&theme=radical&layout=compact)
 
-💬 [![Gmail Badge](https://img.shields.io/badge/-josephndegwa@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josephndegwa@gmail.com)](mailto:kariukindegwa98@gmail.com)
+💬 [![Gmail Badge](https://img.shields.io/badge/-kariukindegwa98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kariukindegwa98@gmail.com)](mailto:kariukindegwa98@gmail.com)
    [![Linkedin Badge](https://img.shields.io/badge/-josephndegwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephndegwa/)](https://www.linkedin.com/in/josephndegwa/)
    [![twitter](https://img.shields.io/twitter/follow/bull_ndegwa?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/bull_ndegwa)   [![github](https://img.shields.io/github/followers/josephndegwa?logo=github&style=plastic)](https://github.com/josephndegwa?tab=followers)
 
 📫 Visit my Portfolio Website: https://josephndegwa.github.io
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=josephndegwa)  [![wakatime](https://wakatime.com/badge/user/646be635-77c4-4954-8b75-1fb37118822a.svg)](https://wakatime.com/@646be635-77c4-4954-8b75-1fb37118822a)    ![Profile views](https://gpvc.arturio.dev/josephndegwa)   <img src="https://img.shields.io/github/forks/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>    <img src="https://img.shields.io/github/stars/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>    <img src="https://img.shields.io/github/issues/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>    <img src="https://img.shields.io/github/issues-pr/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=josephndegwa)  [![wakatime](https://wakatime.com/@81a46e0d-663a-4c9d-863c-19161ab3d907.svg)](https://wakatime.com/@81a46e0d-663a-4c9d-863c-19161ab3d907)    ![Profile views](https://gpvc.arturio.dev/josephndegwa)   <img src="https://img.shields.io/github/forks/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>    <img src="https://img.shields.io/github/stars/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>    <img src="https://img.shields.io/github/issues/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>    <img src="https://img.shields.io/github/issues-pr/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 
