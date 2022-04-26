@@ -4,16 +4,11 @@ My name is Joseph Ndegwa and I am a full-stack developer seeking to grow in my a
 <!-- Info about me -->
 -🌱 Software Engineering.
 
-<!-- 🔭 Current projects:
-<ul>
-  <li><a href="https://josephndegwa.github.io">Portfolio Website</a></li>
-  <li>E-Commerce Merch Website</li>
-</ul> -->
 
 🔭- Interests:
 <ul>
   <li>Web dev</li>
-  <li>Building Stuff with tech</li>
+  <li>Creating awesome software</li>
  </ul>
  
  # 🔧 Techology and Tools
@@ -48,5 +43,5 @@ My name is Joseph Ndegwa and I am a full-stack developer seeking to grow in my a
 
 📫 Visit my Portfolio Website: https://josephndegwa.github.io
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=josephndegwa)  [![wakatime](https://wakatime.com/badge/user/81a46e0d-663a-4c9d-863c-19161ab3d907.svg)](https://wakatime.com/@81a46e0d-663a-4c9d-863c-19161ab3d907)    ![Profile views](https://gpvc.arturio.dev/josephndegwa)   <img src="https://img.shields.io/github/forks/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>    <img src="https://img.shields.io/github/stars/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>    <img src="https://img.shields.io/github/issues/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>    <img src="https://img.shields.io/github/issues-pr/josephndegwa/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=josephndegwa)  [![wakatime](https://wakatime.com/badge/user/81a46e0d-663a-4c9d-863c-19161ab3d907.svg)](https://wakatime.com/@81a46e0d-663a-4c9d-863c-19161ab3d907)    ![Profile views](https://gpvc.arturio.dev/josephndegwa)  
 
