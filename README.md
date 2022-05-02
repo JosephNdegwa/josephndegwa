@@ -2,7 +2,6 @@
 My name is Joseph Ndegwa and I am a full-stack developer seeking to grow in my area of profession as I explore positions that will see me achieve my career potential. Here's some info about me:
 
 <!-- Info about me -->
--🌱 Software Engineering.
 
 
 🔭- Interests:
