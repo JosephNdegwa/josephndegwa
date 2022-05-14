@@ -33,10 +33,7 @@ My name is Joseph Ndegwa and I am a full-stack developer seeking to grow in my a
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephndegwa"></img>
 
-<!-- Wakatime Stats -->
-<!-- <a href="https://github.com/josephndegwa"> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=josephndegwa&theme=radical&v=2" />
-<!-- </a><br/><br/> -->
+
 
 ![Ndegwa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josephndegwa&theme=radical&layout=compact)
 
