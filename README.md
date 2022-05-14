@@ -24,10 +24,7 @@ My name is Joseph Ndegwa and I am a full-stack developer seeking to grow in my a
 <!-- | Design|<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>| -->
 
  
- <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Ndegwa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=josephndegwa&hide_border=true&theme=redical)
-
+ 
  # 📈 Github Stats
 ![Ndegwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephndegwa&theme=radical&show_icons=true)
 
