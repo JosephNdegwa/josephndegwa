@@ -33,7 +33,7 @@ My name is Joseph Ndegwa and I am a full-stack developer seeking to grow in my a
 
 
 
-![Ndegwa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josephndegwa&theme=radical&layout=compact)
+
 
  [![Gmail Badge](https://img.shields.io/badge/-kariukindegwa98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kariukindegwa98@gmail.com)](mailto:kariukindegwa98@gmail.com)
    [![Linkedin Badge](https://img.shields.io/badge/-josephndegwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephndegwa/)](https://www.linkedin.com/in/joseph-ndegwa-64a3aa180/)
