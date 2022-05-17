@@ -31,7 +31,7 @@ My name is Joseph Ndegwa and I am a full-stack developer seeking to grow in my a
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephndegwa"></img>
 
-
+![Ndegwa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josephndegwa&theme=radical&layout=compact)
 
 
 
